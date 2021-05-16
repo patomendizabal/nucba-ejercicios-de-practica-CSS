@@ -1,0 +1,11 @@
+En esta tarea, tendrán que:
+* Crear tres versiones de un botón:
+(a) Redondo
+(b) Rectangular con bordes redondeados
+(c) Con fondo transparente.
+(d) Sorpréndanme (creen un o dos botónes con su estilo, como les guste)
+
+Les adjunto las muestras.
+
+
+La entrega debe ser por GITHUB.
